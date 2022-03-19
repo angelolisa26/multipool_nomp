@@ -1,2 +1,2 @@
 # multipool_nomp
-Installation files for NOMP
+Installation files for NOMPj
